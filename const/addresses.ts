@@ -1,1 +1,1 @@
-export const CONTRACRT_ADDRESS = 0xdeb9ca0b43d16b7cf6272fe739f2b2cab7ec7e96
+export const CONTRACRT_ADDRESS = 12fc5dddfdfb05d467a4bebdf2f1945e
